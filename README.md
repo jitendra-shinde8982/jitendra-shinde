@@ -27,8 +27,8 @@ I build pixel-perfect, responsive UIs for web apps and ERP systems. I like clean
 ---
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra-shinde&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=jitendra-shinde&show_icons=true&theme=default)
 
 ---
 
